@@ -4,4 +4,7 @@
 
 read_csv('mars_elements.csv')
 
+#Cleaned up the data set
+#Sorted the data into different thingies*
 
+#I love Neptune more than Mars anyway!
